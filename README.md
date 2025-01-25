@@ -1,2 +1,14 @@
-# hotel-booking-system
-A collaborative project for developing a Hotel Booking System assigned as part of our software engineering coursework. The system aims to manage hotel reservations, room availability, and customer details efficiently. This repository is used to manage and track the progress of our team's work.
+# Hotel Booking System
+
+### **Project Overview**
+This repository contains the implementation of a **Hotel Booking System** as part of our software engineering coursework. 
+The system is designed to manage hotel reservations, track room availability, and handle customer details efficiently.
+
+### **Team Members**
+| **Name**              | **ID Number**       | 
+|-----------------------|-----------------    |
+| [Hluf Gebremeskel]    | [EITM/TUR181538/16] | 
+| [Daniel Gidey]        | [EITM/TUR181534/16] |
+| [Eden Kidane]         | [EITM/TUR181647/16] | 
+| [Hermela Teklay]      | [EITM/TUR181556/16] |
+| [Meron Embaye]        | [EITM/TUR181583/16] |
